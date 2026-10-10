@@ -1,6 +1,6 @@
 package passoff.chess;
 
-import chess.ChessPosition;
+import ches.ChessPosition;
 
 import java.util.Collection;
 import java.util.List;

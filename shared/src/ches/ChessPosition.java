@@ -1,4 +1,4 @@
-package chess;
+package ches;
 
 /**
  * Represents a single square position on a chess board

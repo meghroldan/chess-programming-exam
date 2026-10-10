@@ -1,4 +1,4 @@
-package chess;
+package ches;
 
 /**
  * A chessboard that can hold and rearrange chess pieces.

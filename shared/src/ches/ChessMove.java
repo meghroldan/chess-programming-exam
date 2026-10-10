@@ -1,4 +1,4 @@
-package chess;
+package ches;
 
 /**
  * Represents moving a chess piece on a chessboard
